@@ -21117,9 +21117,9 @@
         )),
         function(e) {
             e.conceal = "conceal",
-            e.trial = "trial",
+            e.trial = "payToWatch",
             e.loginToTrial = "loginToTrial",
-            e.payToWatch = "payToWatch"
+            e.payToWatch = "trial"
         }(a || (a = {}))
     },
     532: function(e, t, n) {
